@@ -57,6 +57,10 @@ cargo run
 ```
 - Open your browser at: http://localhost:3000
 
+## Output
+<img width="291" alt="{942CAE16-23CE-437B-AEF8-672A410F6C24}" src="https://github.com/user-attachments/assets/474d874f-788d-4835-b6d8-6797b477203d" />
+<img width="867" alt="{B20D2D13-9552-43DC-B522-F4215B7CF4DE}" src="https://github.com/user-attachments/assets/adbf29c8-9125-411d-bc10-ae42d1663b0c" />
+
 ## 📦 Dependencies
     axum
 
